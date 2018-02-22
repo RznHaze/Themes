@@ -1493,7 +1493,7 @@ box-shadow:0 0 0 1px hsla(216,4%,74%,.3), 0 2px 10px 0 rgba(0,0,0,.1)
 	color: #AFAFAF!important
 }
 .bd-blue .chat>.content .messages .message-group:not(.has-divider), .chat>.content .messages .message-group:not(.has-divider) {
-	border-bottom-color: rgba(255,255,255,.3)!important
+	border-bottom-color: rgba(117,143,255,.4)!important
 }
 .chat>.content .messages .message-group .markup .highlight:hover, .highlight:hover {
 	-webkit-transition: all .2s ease-in-out;
