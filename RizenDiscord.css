@@ -14,7 +14,7 @@
 	visibility: hidden
 }
 :root {
---current-version:"8.1";
+--current-version:"R1.0";
 --icon-color:#fff
 }
 #app-mount, .app .layers, .app .layers .layer, .app .layers .layer>[class*=container-], .container-2OU7Cz, .layer-kosS71, .layers-20RVFW, .typing-3eiiL_ {
@@ -40,7 +40,7 @@ background:0 0!important
 	background-size: cover!important
 }
 body:before {
-	content: "Don't forget to stop on by the Rizen Discord!";
+	content: "Current version: v" var(--current-version);
 	z-index: 1000000000000000000000000;
 	color: #fff;
 	background: var(--main-color);
